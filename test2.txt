@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi i am Dilshad  a man with the mind storage
+=======
+hi buddy
+>>>>>>> 2450111f722cf24d83015779ad8d9e7b76bec23a
